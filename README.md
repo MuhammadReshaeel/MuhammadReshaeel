@@ -7,11 +7,6 @@
 
 - 🔭 I’m currently working as **Front End Developer**
 
-- 🌱 I’m currently learning **Mern Stack development**
-
-- 👯 I’m looking to collaborate on **Front End Development**
-
-- 🤝 I’m looking for help with **Remote Part Time Jobs**
 
 - 💬 Ask me about **react, angular and next js**
 
